@@ -1,4 +1,5 @@
-# Cloud based demo application using AWS Lambda
+# LambdaDemoApplication
+Cloud based demo application using AWS Lambda
 =======
 This document includes stepwise procedure for Building a completely scalable and reliable cloud based application using AWS Lambda without worrying about infrastructural needs. Which involves creating a web Interface for app, construct AWS Lambda function, configure APIs in Amazon API Gateway and invoke the application from web browser. 
 
