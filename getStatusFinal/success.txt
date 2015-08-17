@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Lambda</title>
+		
+		<style>
+			#header {
+				    background-color:#212121;
+				    color:white;
+				    text-align:center;
+				    padding:5px;
+					}
+			  #nav {
+				    
+				    background-color:#654646;
+				    color:white;
+				    text-align:center;				    
+				    padding:40px; 
+					}
+			  #bod{
+			  	   background-color:#654646;
+			  }
+		</style>
+	</head>
+	<body id="bod">
+		<div id="header"> <h2>Welcome to Lambda World</h2></div>
+		<div align="center" id="nav"><h1>STATUS </h1></br></br>
+		<table align="center"  border="1px" cellpadding="8px">
+			<thead>
+				<tr><th><h3><font color="#000000">Name</font> </h3></th>
+					<th><h3><font color="#000000">Status</font></h></th></tr>
+			</thead>
+		  
+			<tbody>	

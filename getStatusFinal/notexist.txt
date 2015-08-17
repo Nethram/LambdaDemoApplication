@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Lambda</title>
+		
+	<style>
+			#header {
+				    background-color:#212121;
+				    color:white;
+				    text-align:center;
+				    padding:5px;
+					}
+			  #nav {
+				    
+				    background-color:#654646;
+				    color:white;
+				    text-align:center;				    
+				    padding:40px; 
+					}
+			  #bod{
+			  	   background-color:#654646;
+			  }
+		</style>
+	</head>
+	<body id="bod">
+		<div id="header"> <h2>Welcome to Lambda World</h2></div>
+		<div align="center" id="nav"><h1>Sorry the user does not exit</h1></br></br>
+						<h1>Please Create a new Account</h1>	
+			</div>
+		
+	</body>
+</html>

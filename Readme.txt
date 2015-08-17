@@ -1,0 +1,1 @@
+publically accessible form in s3 :https://s3.amazonaws.com/lambdapackage/LambdaAppFinal/index.html
